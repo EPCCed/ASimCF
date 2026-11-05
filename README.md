@@ -1,8 +1,7 @@
 # ASimCF
 Digital Twin Tools for Data Centres
-<p align="right">
-  <img src="images/ASimCF_Logo.png" alt="ASimCF Logo: A stylised picture of a data centre from above" width="300">
-</p>
+
+<img align="right" src="images/ASimCF_Logo.png" alt="ASimCF Logo: A stylised picture of a data centre from above" width="300">
 
 Currently this is a place holder, but when we release the first version ASimCF it will be hosted here.
 
